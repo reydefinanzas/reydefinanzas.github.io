@@ -1,8 +1,8 @@
 header:
   - title:      Inversión
-    url:        /inversion.html
+    url:        /archive.html?tag=inversion
   - title:      Ahorro
-    url:        /ahorro.html
+    url:        /archive.html?tag=ahorro
   - title:      Formación
     url:        /formacion.html
   - title:      Acerca de
