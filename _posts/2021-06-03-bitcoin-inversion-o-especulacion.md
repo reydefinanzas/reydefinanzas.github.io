@@ -4,6 +4,7 @@ title: "Bitcoin: inversión o especulación"
 mathjax: true
 tags: bitcoin moneda inversion especulacion 
 published: false
+comments: true
 ---
 
 # Qué es bitcoin y cómo funciona
