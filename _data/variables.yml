@@ -5,7 +5,7 @@ default:
   paths:
     root: /
     home: /
-    archive:  /archive.html
+    archive:  /archivo.html
     rss:  /feed.xml
   mathjax: false
   mathjax_autoNumber: false
@@ -33,7 +33,7 @@ default:
     show_author_profile: false
     show_subscribe: false
     full_width: false
-    sharing: false
+    sharing: true
     comment: true
     license: false
     pageview: false

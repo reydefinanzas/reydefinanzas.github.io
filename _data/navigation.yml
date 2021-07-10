@@ -5,6 +5,8 @@ header:
     url:        /archive.html?tag=ahorro
   - title:      Formación
     url:        /formacion.html
-  - title:      Acerca de
-    url:        /acerca-de.html
+  - title:      Archivo
+    url:        /archive.html
+  #- title:      Acerca de
+  #  url:        /acerca-de.html
 
